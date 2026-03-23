@@ -10,3 +10,9 @@ def test_initialCheck(preWork):
 
 def test_initialCheck(preWork):
        print("this is my second check")
+
+def test_initialCheck(preWork):
+       print("this is my third check")
+
+def test_initialCheck(preWork):
+       print("this is my fourth check")
