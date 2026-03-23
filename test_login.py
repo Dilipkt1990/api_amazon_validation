@@ -16,3 +16,5 @@ def test_initialCheck(preWork):
 
 def test_initialCheck(preWork):
        print("this is my fourth check")
+def test_initialCheck(preWork):
+       print("this is my fifth check")
